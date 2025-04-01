@@ -66,7 +66,7 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1_
+║❒ *Tgme:* _https://t.me/Tylork9_
 ║❒ *Owner:* _https://wa.me/message/CIAJJKAVXDNGI1_
 ║❒ *Repo:* _https://github.com/spartankix/spartan/tree/main
 ║❒ *WaGroup:* _https://chat.whatsapp.com/Hx3mVmBza2x4rLeF0qsfqi
