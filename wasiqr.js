@@ -59,16 +59,15 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By 𝚻𝐘𝐋𝚯𝚪 𝚳𝐃 𝚩𝚯𝚻_*
+*_Session Connected By 𝚻𝐘𝐋𝚯𝚪_*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『AMAZING YOU'VE CHOSEN 𝚻𝐘𝐋𝚯𝚪 𝚳𝐃 𝚩𝚯𝚻』*
+║ *『AMAZING YOU'VE CHOSEN 𝚻𝐘𝐋𝚯𝚪』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1
 ║❒ *Owner:* _https://wa.me/message/CIAJJKAVXDNGI1_
 ║❒ *Repo:* _https://github.com/spartankix/spartan_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/Hx3mVmBza2x4rLeF0qsfqi_
