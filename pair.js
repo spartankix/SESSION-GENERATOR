@@ -61,7 +61,7 @@ router.get('/', async (req, res) => {
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN 𝚻𝐘𝐋𝚯𝚪 𝚳𝐃 𝚩𝚯𝚻 』*
+║ *『 WOW YOU'VE CHOSEN 𝚻𝐘𝐋𝚯𝚪』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
